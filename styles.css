@@ -1,0 +1,10 @@
+body{
+    background-color: yellow;
+}
+.boldClass{
+    color: blue;
+    font-weight: bold;
+}
+#bigID {
+    font-size: 24px;
+}

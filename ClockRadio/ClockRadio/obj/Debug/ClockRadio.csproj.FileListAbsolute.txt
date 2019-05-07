@@ -1,0 +1,7 @@
+C:\Users\Nevin\Desktop\ClockRadio\ClockRadio\bin\Debug\ClockRadio.exe.config
+C:\Users\Nevin\Desktop\ClockRadio\ClockRadio\bin\Debug\ClockRadio.exe
+C:\Users\Nevin\Desktop\ClockRadio\ClockRadio\bin\Debug\ClockRadio.pdb
+C:\Users\Nevin\Desktop\ClockRadio\ClockRadio\obj\Debug\ClockRadio.csprojAssemblyReference.cache
+C:\Users\Nevin\Desktop\ClockRadio\ClockRadio\obj\Debug\ClockRadio.csproj.CoreCompileInputs.cache
+C:\Users\Nevin\Desktop\ClockRadio\ClockRadio\obj\Debug\ClockRadio.exe
+C:\Users\Nevin\Desktop\ClockRadio\ClockRadio\obj\Debug\ClockRadio.pdb

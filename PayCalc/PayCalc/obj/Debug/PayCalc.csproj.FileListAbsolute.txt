@@ -1,0 +1,7 @@
+C:\Users\Nevin\Desktop\PayCalc\PayCalc\bin\Debug\PayCalc.exe.config
+C:\Users\Nevin\Desktop\PayCalc\PayCalc\bin\Debug\PayCalc.exe
+C:\Users\Nevin\Desktop\PayCalc\PayCalc\bin\Debug\PayCalc.pdb
+C:\Users\Nevin\Desktop\PayCalc\PayCalc\obj\Debug\PayCalc.csprojAssemblyReference.cache
+C:\Users\Nevin\Desktop\PayCalc\PayCalc\obj\Debug\PayCalc.csproj.CoreCompileInputs.cache
+C:\Users\Nevin\Desktop\PayCalc\PayCalc\obj\Debug\PayCalc.exe
+C:\Users\Nevin\Desktop\PayCalc\PayCalc\obj\Debug\PayCalc.pdb
